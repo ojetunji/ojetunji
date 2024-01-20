@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dami Ojetunji</h1>
+<h1 align="center">Hi 👋🏾, I'm Dami Ojetunji</h1>
 <h3 align="center">Senior product (UX) designer from Lagos, Nigeria 🇳🇬</h3>
 <img align="right" alt="Designing" width="400" src="https://cdn.dribbble.com/users/3680841/screenshots/8106346/media/2c62bab75b59c375464e8b268b5c0bc9.gif">
 
