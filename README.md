@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dami Ojetunji</h1>
 <h3 align="center">Senior product (UX) designer from Lagos, Nigeria 🇳🇬</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1482796/screenshots/11163610/media/24482d28954cf2cad158512c7c62d51f.gif">
 
-- 🔭 I’m currently working as a as a CDO and design lead at [Refer me](referme.uk)
+- 🔭 I’m currently working as a CDO and design lead at [Refer me](referme.uk)
 
 - 🌱 I’m currently learning **design for emerging technologies think AI, VR etc, my dream is to be a product designer on the Apple Vision Pro team. I’m also learning how to create prototypes with Origami studio**
 
-- 👯 I’m looking to collaborate on **on projects and teams needing design input and contribution**
+- 👯 I’m looking to collaborate on **projects and teams needing design input and contribution**
 
 - 👩🏾‍💻 All of my projects are available at [https://damiojetunji.webflow.io](https://damiojetunji.webflow.io)
 
