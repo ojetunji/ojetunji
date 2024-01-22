@@ -1,7 +1,8 @@
 [![MasterHead](https://cdn.dribbble.com/userupload/12582120/file/original-68498ad9286ad5d7fd3be540c1bb8fc8.jpg?resize=1024x256&vertical=center)](https://damiojetunji.webflow.io)
 <h1 align="center">Hi 👋🏾, I'm Dami Ojetunji</h1>
 <h3 align="center">Senior product (UX) designer from Lagos, Nigeria 🇳🇬</h3>
-<img align="right" alt="Designing" width="400" src="https://cdn.dribbble.com/users/3680841/screenshots/8106346/media/2c62bab75b59c375464e8b268b5c0bc9.gif">
+<img align="right" alt="Designing" width="260" src="https://cdn.dribbble.com/users/3680841/screenshots/8106346/media/2c62bab75b59c375464e8b268b5c0bc9.gif">
+
 
 - 🔭 I’m currently working as a CDO and design lead at [Refer me](referme.uk)
 
