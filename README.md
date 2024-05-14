@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋🏾, I'm Dami Ojetunji</h1>
-<h3 align="center">Senior product (UX) designer from Lagos, Nigeria 🇳🇬</h3>
+<h1 align="center">Hi 👋🏾, I'm Dami</h1>
+<h3 align="center">Product designer from Lagos, Nigeria 🇳🇬</h3>
 
-- 🔭 I’m currently working as a product deigner at [Mercurie](referme.uk)
+- 🔭 I’m currently working as a product deigner at [Mercurie](MERCURIE.NG)
 
-- 🌱 I’m currently exploring **design strategies for emerging technologies, security, and creating with Origami studio**
+- 🌱 I’m exploring and learning **design strategies for emerging technologies, security, and creating with Origami studio**
 
 - 👩🏾‍💻 All of my projects are available at [https://damiojetunji.framer.website](https://damiojetunji.framer.website)
 
 - 📝 I offer free mentoring on ADPList [https://adplist.org/mentors/dami-ojetunji](https://adplist.org/mentors/dami-ojetunji)
 
-- 💬 Ask me about **Interaction design, Design systems, User-focused strategies**
+- 💬 Ask me about **Interaction design, Design systems, User-focused UX strategies**
 
 - 📫 How to reach me **uxojetunji@ gmail.com**
 
@@ -22,7 +22,6 @@
 <a href="https://dribbble.com/ojetunji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ojetunji" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojetunji&" alt="ojetunji" /></p>
 <!---
 ojetunji/ojetunji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
