@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋🏾, I'm Dami</h1>
 <h3 align="center">Product designer from Lagos, Nigeria 🇳🇬</h3>
 
-- 🔭 I’m currently working as a Product designer at [Mercurie](MERCURIE.NG)
-
 - 🌱 I’m exploring and learning **design strategies for emerging technologies, security, and creating with Origami studio**
 
 - 👩🏾‍💻 All of my projects are available at [https://damiojetunji.framer.website](https://damiojetunji.framer.website)
